@@ -1,1 +1,1 @@
-A matrícula deverá conter 8 dígitos
+A matrícula deverá conter 10 dígitos
